@@ -1,0 +1,5 @@
+1) Giveaway commands.
+2) Some simple general commands.
+3) Using command handlers.
+4) Just a general bot with limited amount of use without large traffic.
+5) Will be constantly updated to keep it free of bugs.
