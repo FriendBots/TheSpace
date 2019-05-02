@@ -3,3 +3,5 @@
 3) Using command handlers.
 4) Just a general bot with limited amount of use without large traffic.
 5) Will be constantly updated to keep it free of bugs.
+
+Note: For now, the development process is slow, cause of less time and lot of bugs the project is coming across.
