@@ -1,9 +1,9 @@
-const { RichEmbed } = require('discord.js');
+const { RichEmbed } = require('discord.js'); //importind embeds from discord.js
 
-module.exports = {
-    name: 'giveaway',
-    description: 'does a giveaway',
-    async execute(client, message, args) {
+module.exports = {  //starting of a commanf handler
+    name: 'giveaway',  //command name
+    description: 'does a giveaway',  //command description
+    async execute(client, message, args) {  //command execution
         var item = "";
         var time;
         var winnerCount;
@@ -44,3 +44,4 @@ module.exports = {
         }, time * 1000);
     },
 };
+//command ends
